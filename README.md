@@ -15,3 +15,6 @@ File breakdown:
 * Kaggle Underfitting and Overfitting ML.ipynb: notebook learning how to use Mean Absolute Error and maximum Decision Tree depth.
 * Kaggle Intermediate ML Exercise 1.ipynb: notebook for learning how to use imputation for missing values in our predictors
 * Kaggle Intermediate Machine Learning.ipynb: notebook to learn about different parameters for the RandomForestRegressor model
+* Kaggle Intermediate ML Categorical Data.ipynb: notebook for learning how to handle categorical data (dropping, ordinal encoding, one-hot encoding)
+* Kaggle Intermediate ML Pipelines.ipynb: learn how to set up pipelines for preprocessing and modeling
+* Kaggle Intermediate ML Cross-Validation.ipynb: learn how to use cross-validation for models
