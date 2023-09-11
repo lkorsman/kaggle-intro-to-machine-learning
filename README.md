@@ -18,3 +18,4 @@ File breakdown:
 * Kaggle Intermediate ML Categorical Data.ipynb: notebook for learning how to handle categorical data (dropping, ordinal encoding, one-hot encoding)
 * Kaggle Intermediate ML Pipelines.ipynb: learn how to set up pipelines for preprocessing and modeling
 * Kaggle Intermediate ML Cross-Validation.ipynb: learn how to use cross-validation for models
+* Kaggle Intermediate ML XGBoost Excercise.ipynb: learn how to use XGBoost for better modeling
